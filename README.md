@@ -40,7 +40,7 @@ Si vous voulez installer **RA-PRO** avec Python a la place de télécharger simp
      ```bash
      pip install -r requirements.txt
      ```
-(Avec le l'éxecutable (.exe))
+(Avec l'éxecutable (.exe))
 1. **Pas besoin d'installation**
 
 ---
